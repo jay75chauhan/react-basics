@@ -68,6 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 ### Advanced Configuration
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+###WEB PACK
+![E3B_3sZWYAEgc9k](https://user-images.githubusercontent.com/66429052/122589649-28914d80-d07e-11eb-8900-1ffd7af0be58.jpg)
 
 ### Deployment
 
